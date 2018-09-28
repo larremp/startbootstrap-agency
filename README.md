@@ -1,6 +1,6 @@
 # [Start Bootstrap - Agency](https://startbootstrap.com/template-overviews/agency/)
 
-This fork makes the header background image an inline style. This was done primarily to be used with OrchardCore.
+This fork makes the header background image an inline style. This was done primarily to be used with OrchardCore and make it dynamic, with the site admin able to upload a file via the dashboard and change the image.
 
 [Agency](https://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
 
